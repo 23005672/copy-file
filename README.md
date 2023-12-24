@@ -33,6 +33,8 @@ copy(filename,newfile)
 
 ```
 ### OUTPUT:
+<img width="351" alt="copyfile1" src="https://github.com/23005672/copy-file/assets/138971519/8d133ce1-ebfb-48bc-aab9-5db9be7043a7">
+<img width="491" alt="copyfile2" src="https://github.com/23005672/copy-file/assets/138971519/5e238b8a-0dc9-46bc-94a7-af0d9de7877b">
 
 
 
